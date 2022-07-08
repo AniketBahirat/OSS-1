@@ -10,20 +10,8 @@ public class Ass5
 			System.out.print(j);
 		}
 	}
+	public Ass5()
+	{
+	}
 }
 //here Is the change
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-//Comment added
